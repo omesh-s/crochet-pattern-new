@@ -1,14 +1,13 @@
 {
   "files": {
     "main.css": "/crochet-pattern-new/static/css/main.8acd0b55.css",
-    "main.js": "/crochet-pattern-new/static/js/main.75e0415a.js",
-    "static/media/favicon.png": "/crochet-pattern-new/static/media/favicon.9f557029a36a1da65d50.png",
+    "main.js": "/crochet-pattern-new/static/js/main.2243ef2e.js",
     "index.html": "/crochet-pattern-new/index.html",
     "main.8acd0b55.css.map": "/crochet-pattern-new/static/css/main.8acd0b55.css.map",
-    "main.75e0415a.js.map": "/crochet-pattern-new/static/js/main.75e0415a.js.map"
+    "main.2243ef2e.js.map": "/crochet-pattern-new/static/js/main.2243ef2e.js.map"
   },
   "entrypoints": [
     "static/css/main.8acd0b55.css",
-    "static/js/main.75e0415a.js"
+    "static/js/main.2243ef2e.js"
   ]
 }
