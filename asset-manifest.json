@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/your-repository-name/static/css/main.1fe229ec.css",
-    "main.js": "/your-repository-name/static/js/main.7ebb1d17.js",
-    "index.html": "/your-repository-name/index.html",
-    "main.1fe229ec.css.map": "/your-repository-name/static/css/main.1fe229ec.css.map",
-    "main.7ebb1d17.js.map": "/your-repository-name/static/js/main.7ebb1d17.js.map"
+    "main.css": "//omesh-s.github.io/crochet-pattern-new/static/css/main.1fe229ec.css",
+    "main.js": "//omesh-s.github.io/crochet-pattern-new/static/js/main.7ebb1d17.js",
+    "index.html": "//omesh-s.github.io/crochet-pattern-new/index.html",
+    "main.1fe229ec.css.map": "//omesh-s.github.io/crochet-pattern-new/static/css/main.1fe229ec.css.map",
+    "main.7ebb1d17.js.map": "//omesh-s.github.io/crochet-pattern-new/static/js/main.7ebb1d17.js.map"
   },
   "entrypoints": [
     "static/css/main.1fe229ec.css",
